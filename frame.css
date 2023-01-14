@@ -1,0 +1,107 @@
+.header{
+    width: 100%;
+    height: 100px;
+    background-color: blue;
+}
+body{
+    margin: 0;
+}
+.logo{
+    width: 50%;
+    padding-top: 44px;
+    float: left;
+   
+}
+.logotext{
+    color: azure;
+    font-size: 50px;
+    font-weight: bold ;
+    margin-left: 100px;
+    font-style: initial;
+    text-decoration: none;
+}
+
+.loging{
+    width: 50%;
+    float: left;
+    
+}
+.contrulloging{
+    margin-left: 171px;
+    padding-top: 28px;
+
+}
+.texcol{
+    color: aliceblue;
+    cursor: pointer;
+}
+.but:hover{
+    background-color: rgb(18, 4, 153);
+}
+.but{
+    background-color: rgb(125, 125, 209);
+    color: aqua;
+    height: 20px;
+    cursor: pointer;
+}
+.pergraf{
+    font-size: medium;
+}
+.mainbody{
+    width: 100%;
+    height: 600px;
+    
+
+}
+.leftsection{
+    width: 63%;
+    height: 552px;
+    padding-top: 32px;
+    background-color: rgba(219, 217, 230, 0.342);
+}
+.rightsection{
+    width: 37%;
+    height: 600px;
+    float:right;
+    margin-top: -584px;
+    background-color: rgba(219, 217, 230, 0.342);
+    
+    
+   
+}
+.imag{
+    margin-left: 75px;
+    width: 577px;
+    height: 268px;
+}
+.peragraf{
+    margin-left: 75px;
+    font-size: 28px;
+    font-weight:bold;
+    font-style: Garamond;
+}
+.reee{
+    font-weight: bold;
+    font-size: 8px;
+}
+.ceratebut{
+    background-color: rgb(20, 241, 12);
+    color: rgb(247, 248, 248);
+    font-size: 16px;
+    font-weight: bold;
+    height: 28px;
+    width: 160px;
+    border-radius: 9px;
+    cursor:pointer;
+
+}
+.inbox{
+    height: 24px;
+    width:200px;
+    border-radius: 5px;
+    font-size:15px;
+    background-color: rgb(247, 244, 201);
+    border-color: rgb(179, 179, 231);
+    cursor: pointer;
+
+}
